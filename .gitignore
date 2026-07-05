@@ -1,0 +1,9 @@
+# Build artifact — regenerate with make-deploy.ps1
+deploy/
+
+# Internal working files (GSC screenshots, pixel debugging log, archived pages)
+# Never commit: this repo is PUBLIC
+_internal/
+
+# Local Claude Code settings
+.claude/
